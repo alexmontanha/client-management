@@ -292,4 +292,10 @@ Agora, vamos criar o serviço de autenticação para realizar o login.
    </div>
    ```
 
-> **Nota**: Customize `addClient` e `updateClient` para exibir formulários.
+    **Nota**: Customize `addClient` e `updateClient` para exibir formulários.
+
+## Tutorial em Vídeo
+
+Para mais detalhes, assista ao tutorial em vídeo:
+
+[![Curso Angular 4: Angular e Rest Parte 1](https://img.youtube.com/vi/UecYDGB5m64/0.jpg)](https://youtu.be/UecYDGB5m64?si=wpmWHtu6FRR-sb-1)
